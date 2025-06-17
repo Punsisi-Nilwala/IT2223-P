@@ -1,4 +1,4 @@
-***Functions***
+***Function***
 
 
 practical 1 code & output
